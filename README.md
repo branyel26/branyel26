@@ -4,7 +4,7 @@
 
 **Santo Domingo, RD** · eJPTv2 · CC
 
-Enfocado en seguridad ofensiva. Practico en HTB, THM e INE Security Academy.
+Enfocado en seguridad ofensiva. En constante práctica en HTB, THM e INE Security.
 
 </div>
 
