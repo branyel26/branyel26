@@ -4,7 +4,7 @@
 
 **Santo Domingo, RD** · eJPTv2 · CC
 
-Enfocado en seguridad ofensiva. En constante práctica en HTB, THM e INE Security.
+Enfocado en seguridad ofensiva. Activo en HTB, THM e INE Security Academy.
 
 </div>
 
@@ -70,11 +70,11 @@ Enfocado en seguridad ofensiva. En constante práctica en HTB, THM e INE Securit
 
 <p>
   <a href="https://certs.ine.com/1e16d31f-92a6-4655-90f3-4c1018798610#acc.f8KciTbe" target="_blank">
-    <img src="https://images.credly.com/images/c1489ff6-2863-479a-8499-4cfa92b2918f/xwvtx3kt_1773049294682_cached_image_20260310-32-noarnw.png" width="120" />
+    <img src="https://images.credly.com/images/c1489ff6-2863-479a-8499-4cfa92b2918f/xwvtx3kt_1773049294682_cached_image_20260310-32-noarnw.png" width="256" />
   </a>
   &nbsp;
   <a href="https://www.credly.com/earner/earned/badge/0b24a854-6698-43fd-85e5-6fbd4de999f6" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E22AQFOK4ss3ld7hw/feedshare-shrink_2048_1536/B4EZvmeXThGgAo-/0/1769098279397?e=1776902400&v=beta&t=HChtr5DaQtI_XoUo7s69hsZvY-CZqgucIqZdPEqqa7A" width="120" />
+    <img src="https://media.licdn.com/dms/image/v2/D4E22AQFOK4ss3ld7hw/feedshare-shrink_2048_1536/B4EZvmeXThGgAo-/0/1769098279397?e=1776902400&v=beta&t=HChtr5DaQtI_XoUo7s69hsZvY-CZqgucIqZdPEqqa7A" width="256" />
   </a>
 </p>
 
