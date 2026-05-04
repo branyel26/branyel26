@@ -1,11 +1,9 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey%2C+soy+Branyel+%F0%9F%91%8B;Junior+Penetration+Tester;Vulnerando+sistemas+desde+2024" alt="Typing SVG" />
 
 **Santo Domingo, RD** · eJPTv2 · CC
 
 Enfocado en seguridad ofensiva. En constante práctica en HTB, THM e INE Security.
-
 </div>
 
 ---
@@ -75,6 +73,10 @@ Enfocado en seguridad ofensiva. En constante práctica en HTB, THM e INE Securit
   &nbsp;
   <a href="https://www.credly.com/earner/earned/badge/0b24a854-6698-43fd-85e5-6fbd4de999f6" target="_blank">
     <img src="https://i.imgur.com/FSKAB7A.png" width="256" />
+  </a>
+  &nbsp;
+  <a href="https://certs.ine.com/4363b3d3-1899-4f2d-86bc-8dff23b4e0d6#acc.a2IjVNM4" target="_blank">
+    <img src="https://i.imgur.com/qKX7l9X.png" width="256" />
   </a>
 </p>
 
